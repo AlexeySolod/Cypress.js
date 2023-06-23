@@ -1,2 +1,2 @@
 # python-autotests
-Автотесты JS Cypress.
+Автотесты python JS Cypress.
